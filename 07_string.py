@@ -31,4 +31,4 @@ print(msg.strip("-"))
 # print(msg.lstrip("-"))
 # print(msg.rstrip("-"))
 
-print(msg.replace("footprint","data"))
+print(msg.replace("footprint","data")) 
