@@ -1,0 +1,19 @@
+• Think before you click — Your first line of defense.
+
+• Never trust, always verify — The core of zero-trust security.
+
+• Passwords: Longer is stronger — A simple rule for robust account protection.
+
+• Be aware... Connect with care — A reminder to check your networks.
+
+• See something wrong? Do something right — Encouraging quick incident reporting.
+
+• Treat your password like a toothbrush — Don't share it, and change it often.
+
+• Hit delete when it sounds too sweet — Spotting phishing scams instantly.
+
+• Lock your screen before you lean — Protecting physical workstations.
+
+• Protect before you connect — Securing devices before jumping online.
+
+• A quick restart is always smart — Keeping software updated and patched.
