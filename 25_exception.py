@@ -13,6 +13,7 @@
 #     print("Ans:",x)
 # except ZeroDivisionError:
 #     print("Can not devide by zero.")
+ 
 
 try:
     number1 = int(input("Enter any number:"))
